@@ -6,4 +6,7 @@ Kotthu
 Burger
 Chicken Fry
 
+Beans
+Pizza
+
 Thank you
